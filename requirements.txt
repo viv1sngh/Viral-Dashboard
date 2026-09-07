@@ -1,0 +1,4 @@
+feedparser
+supabase
+streamlit
+pandas
